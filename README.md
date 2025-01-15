@@ -15,8 +15,7 @@ Global Burden of Disease Study 2021 (GBD 2021) Results.
 Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2022. Accessed January 13, 2025.
 Available from https://vizhub.healthdata.org/gbd-results/.
 
-The World Health Organization / UNICEF.
-Papillomavirus Rapid Interface for Modelling and Economics (PRIME): London School of Hygiene & Tropical Medicine, Mark Jit, Marc Brisson, Kaja Abbas, and Han Fu.
+The World Health Organization / UNICEF. Papillomavirus Rapid Interface for Modelling and Economics (PRIME): London School of Hygiene & Tropical Medicine, Mark Jit, Marc Brisson, Kaja Abbas, and Han Fu. Cervical Cancer & HPV Vaccines.
 Owned by Joakim Arvidsson. Accessed January 15, 2025. Available from https://www.kaggle.com/datasets/joebeachcapital/cervical-cancer-and-hpv-vaccines.
 
 Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health.
