@@ -15,4 +15,17 @@ Global Burden of Disease Study 2021 (GBD 2021) Results.
 Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2022.
 Available from https://vizhub.healthdata.org/gbd-results/.
 
+The World Health Organization / UNICEF.
+Papillomavirus Rapid Interface for Modelling and Economics (PRIME): London School of Hygiene & Tropical Medicine, Mark Jit, Marc Brisson, Kaja Abbas, and Han Fu.
+
+Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health.
+500 Cities: Census Tract-level Data (GIS Friendly Format), 2016 release.
+Created November 22, 2017. Data Last Updated October 15, 2018. CDC UserSA. December 16, 2024 at 9:50 AM.
+Available from https://data.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/5mtz-k78d/about_data.
+
+Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health.
+500 Cities: Census Tract-level Data (GIS Friendly Format), 2016 release.
+Created November 22, 2017. Data Last Updated October 15, 2018. CDC UserSA. December 16, 2024 at 9:50 AM.
+Available from https://data.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/5mtz-k78d/about_data.
+
 
