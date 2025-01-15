@@ -8,4 +8,13 @@ Because of socioeconomic limitations, not all women have access to preventative 
 
 Physicians usually recommend scheduling a Pap smear test every few years ([Pap smear - Mayo Clinic](https://www.mayoclinic.org/tests-procedures/pap-smear/about/pac-20394841)). Nevertheless, many women do not receive proper screening due to a lack of health literacy or insufficient healthcare systems ([Women’s perception of barriers and facilitators of cervical cancer Pap smear screening: a qualitative study | BMJ Open](https://bmjopen.bmj.com/content/14/1/e072954)).
 
-Cervical cancer is highly treatable if caught in the early stages of development ([Cervical Cancer: Causes, Symptoms, Diagnosis & Treatment](https://my.clevelandclinic.org/health/diseases/12216-cervical-cancer)). If national cancer screening programs, HPV vaccines, and Pap smear tests prove to be effective measures in preventing severe stages of cervical cancer, governments and various health organizations should consider investing in these programs/precautions. 
+Cervical cancer is highly treatable if caught in the early stages of development ([Cervical Cancer: Causes, Symptoms, Diagnosis & Treatment](https://my.clevelandclinic.org/health/diseases/12216-cervical-cancer)). If national cancer screening programs, HPV vaccines, and Pap smear tests prove to be effective measures in preventing severe stages of cervical cancer, governments and various health organizations should consider investing in these programs/precautions.
+
+## Citations for Data Sources
+
+Global Burden of Disease Collaborative Network.
+Global Burden of Disease Study 2021 (GBD 2021) Results.
+Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2022.
+Available from https://vizhub.healthdata.org/gbd-results/.
+
+
