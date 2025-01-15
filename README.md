@@ -12,30 +12,21 @@ The goal of this research project was to compare the effects of preventative mea
 
 Global Burden of Disease Collaborative Network.
 Global Burden of Disease Study 2021 (GBD 2021) Results.
-Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2022.
+Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2022. Accessed January 13, 2025.
 Available from https://vizhub.healthdata.org/gbd-results/.
 
 The World Health Organization / UNICEF.
 Papillomavirus Rapid Interface for Modelling and Economics (PRIME): London School of Hygiene & Tropical Medicine, Mark Jit, Marc Brisson, Kaja Abbas, and Han Fu.
-
-Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health.
-500 Cities: Census Tract-level Data (GIS Friendly Format), 2016 release.
-Created November 22, 2017. Data last updated October 15, 2018. CDC UserSA. Accessed December 16, 2024 at 9:50 AM.
-Available from https://data.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/5mtz-k78d/about_data.
+Owned by Joakim Arvidsson. Accessed January 15, 2025. Available from https://www.kaggle.com/datasets/joebeachcapital/cervical-cancer-and-hpv-vaccines.
 
 Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health.
 500 Cities: Census Tract-level Data (GIS Friendly Format), 2017 release.
-Created October 15, 2018. Data last updated October 15, 2018. CDC UserSA. Accessed December 16, 2024 at 9:50 AM.
+Created October 15, 2018. Data last updated October 15, 2018. CDC UserSA. Accessed December 16, 2024.
 Available from https://data.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/kucs-wizg/about_data.
 
 Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health.
-500 Cities: Census Tract-level Data (GIS Friendly Format), 2018 release.
-Created December 4, 2019. Data last updated December 5, 2019. CDC UserSA. Accessed December 16, 2024 at 9:50 AM.
-Available from https://data.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/k25u-mg9b/about_data.
-
-Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health.
 500 Cities: Census Tract-level Data (GIS Friendly Format), 2019 release.
-Created November 2, 2016. Data last updated December 5, 2019. Owned by The 500 Cities. Accessed December 16, 2024 at 9:50 AM.
+Created November 2, 2016. Data last updated December 5, 2019. Owned by The 500 Cities. Accessed December 16, 2024.
 Available from https://data.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/k86t-wghb/about_data.
 
 
