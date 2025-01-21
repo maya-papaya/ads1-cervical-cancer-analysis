@@ -1,0 +1,1370 @@
+state,year,dimension_type,dimension_val,val
+New York,2023,Age,13-17 Years,68.6
+New York,2023,Age,13-15 Years,61.7
+New York,2018-2022,Insurance Coverage,Uninsured,40.1
+New York,2018-2022,Insurance Coverage,Other,58.8
+New York,2018-2022,Insurance Coverage,Any Medicaid,69.9
+New York,2018-2022,Insurance Coverage,Private Insurance Only,61.1
+New York,2018-2022,Poverty,Living At or Above Poverty Level,63.0
+New York,2018-2022,Poverty,Below Poverty Level,67.8
+New York,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",68.8
+New York,2018-2022,Race and Ethnicity,Hispanic,70.1
+New York,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",61.8
+New York,2018-2022,Race and Ethnicity,"White, Non-Hispanic",59.3
+New York,2018-2022,Urbanicity,Living In a MSA Principal City,68.8
+New York,2018-2022,Urbanicity,Living In a Non-MSA,51.8
+New York,2018-2022,Urbanicity,Living In a MSA Non-Principal City,58.3
+New York,2018-2022,Overall,Overall,63.5
+Mississippi,2018-2022,Poverty,Living At or Above Poverty Level,32.0
+Mississippi,2018-2022,Poverty,Below Poverty Level,38.0
+Mississippi,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",38.4
+Mississippi,2018-2022,Race and Ethnicity,Hispanic,47.3
+Mississippi,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",37.3
+Mississippi,2018-2022,Race and Ethnicity,"White, Non-Hispanic",27.7
+Mississippi,2018-2022,Urbanicity,Living In a MSA Principal City,42.5
+Mississippi,2018-2022,Urbanicity,Living In a MSA Non-Principal City,34.7
+Mississippi,2018-2022,Urbanicity,Living In a Non-MSA,28.5
+Mississippi,2018-2022,Overall,Overall,33.3
+New Hampshire,2023,Age,13-15 Years,61.3
+New Hampshire,2023,Age,13-17 Years,70.6
+New Hampshire,2018-2022,Overall,Overall,69.6
+New Hampshire,2018-2022,Urbanicity,Living In a Non-MSA,65.6
+New Hampshire,2018-2022,Urbanicity,Living In a MSA Non-Principal City,72.6
+New Hampshire,2018-2022,Urbanicity,Living In a MSA Principal City,68.6
+New Hampshire,2018-2022,Race and Ethnicity,"White, Non-Hispanic",68.4
+New Hampshire,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",77.9
+New Hampshire,2018-2022,Race and Ethnicity,Hispanic,69.9
+New Hampshire,2018-2022,Poverty,Below Poverty Level,66.5
+New Hampshire,2018-2022,Poverty,Living At or Above Poverty Level,69.9
+New Hampshire,2018-2022,Insurance Coverage,Private Insurance Only,72.5
+New Hampshire,2018-2022,Insurance Coverage,Any Medicaid,66.0
+New Hampshire,2018-2022,Insurance Coverage,Other,56.1
+New Hampshire,2018-2022,Insurance Coverage,Uninsured,61.0
+New Hampshire,2016,Age,13-17 Years,51.2
+New Hampshire,2019,Age,13-17 Years,63.2
+New Hampshire,2020,Age,13-17 Years,68.8
+New Hampshire,2021,Age,13-17 Years,72.3
+New Hampshire,2022,Age,13-17 Years,76.2
+New Hampshire,2018,Age,13-17 Years,67.4
+New Hampshire,2017,Age,13-17 Years,59.9
+Colorado,2017,Age,13-17 Years,53.8
+Colorado,2018,Age,13-17 Years,62.5
+Colorado,2019,Age,13-17 Years,63.5
+Colorado,2016,Age,13-17 Years,48.0
+Colorado,2022,Age,13-17 Years,65.7
+Colorado,2021,Age,13-17 Years,69.2
+Colorado,2020,Age,13-17 Years,66.4
+Colorado,2022,Age,13-15 Years,63.4
+Colorado,2019,Age,13-15 Years,62.4
+Colorado,2021,Age,13-15 Years,63.6
+Colorado,2020,Age,13-15 Years,64.8
+Nebraska,2023,Age,13-15 Years,58.4
+Nebraska,2023,Age,13-17 Years,67.4
+Nebraska,2018-2022,Overall,Overall,63.1
+Nebraska,2018-2022,Urbanicity,Living In a Non-MSA,51.9
+Nebraska,2018-2022,Urbanicity,Living In a MSA Non-Principal City,65.1
+Nebraska,2018-2022,Urbanicity,Living In a MSA Principal City,69.1
+Nebraska,2018-2022,Race and Ethnicity,"White, Non-Hispanic",63.1
+Nebraska,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",48.5
+Nebraska,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",58.8
+Nebraska,2018-2022,Race and Ethnicity,Hispanic,70.1
+Nebraska,2018-2022,Poverty,Below Poverty Level,61.0
+Nebraska,2018-2022,Poverty,Living At or Above Poverty Level,63.5
+Nebraska,2018-2022,Insurance Coverage,Private Insurance Only,63.9
+Nebraska,2018-2022,Insurance Coverage,Any Medicaid,62.5
+Nebraska,2018-2022,Insurance Coverage,Other,62.1
+Nebraska,2018-2022,Insurance Coverage,Uninsured,57.7
+New Hampshire,2019,Age,13-15 Years,51.5
+New Hampshire,2021,Age,13-15 Years,71.7
+New Hampshire,2022,Age,13-15 Years,72.0
+New Hampshire,2020,Age,13-15 Years,63.9
+Minnesota,2023,Age,13-15 Years,65.0
+Minnesota,2023,Age,13-17 Years,69.2
+Minnesota,2018-2022,Overall,Overall,63.9
+Minnesota,2018-2022,Urbanicity,Living In a Non-MSA,56.2
+Minnesota,2018-2022,Urbanicity,Living In a MSA Non-Principal City,63.0
+Minnesota,2018-2022,Urbanicity,Living In a MSA Principal City,67.2
+Minnesota,2018-2022,Race and Ethnicity,"White, Non-Hispanic",63.7
+Minnesota,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",63.6
+Minnesota,2018-2022,Race and Ethnicity,Hispanic,54.1
+Minnesota,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",72.0
+Minnesota,2018-2022,Poverty,Below Poverty Level,61.8
+Minnesota,2018-2022,Poverty,Living At or Above Poverty Level,63.3
+Minnesota,2018-2022,Insurance Coverage,Private Insurance Only,66.4
+Minnesota,2018-2022,Insurance Coverage,Any Medicaid,61.6
+Minnesota,2018-2022,Insurance Coverage,Other,44.8
+Minnesota,2019,Age,13-17 Years,56.8
+Minnesota,2020,Age,13-17 Years,69.2
+Minnesota,2021,Age,13-17 Years,65.7
+Minnesota,2022,Age,13-17 Years,68.6
+Minnesota,2017,Age,13-17 Years,46.9
+Minnesota,2018,Age,13-17 Years,58.8
+Minnesota,2016,Age,13-17 Years,44.1
+Florida,2022,Age,13-15 Years,49.3
+Florida,2017,Age,13-17 Years,42.3
+Florida,2018,Age,13-17 Years,46.5
+Florida,2019,Age,13-17 Years,56.0
+Florida,2016,Age,13-17 Years,40.4
+Florida,2022,Age,13-17 Years,58.9
+Florida,2021,Age,13-17 Years,49.0
+Florida,2020,Age,13-17 Years,51.6
+Florida,2020,Age,13-15 Years,49.9
+Florida,2019,Age,13-15 Years,53.5
+Florida,2021,Age,13-15 Years,48.0
+Oklahoma,2019,Age,13-15 Years,38.5
+Oklahoma,2021,Age,13-15 Years,50.3
+Oklahoma,2022,Age,13-15 Years,41.2
+Oklahoma,2022,Age,13-17 Years,46.2
+Oklahoma,2021,Age,13-17 Years,56.7
+Oklahoma,2019,Age,13-17 Years,41.8
+Oklahoma,2020,Age,13-17 Years,45.8
+Oklahoma,2016,Age,13-17 Years,39.2
+Oklahoma,2018,Age,13-17 Years,37.9
+Oklahoma,2017,Age,13-17 Years,41.4
+Oklahoma,2020,Age,13-15 Years,39.5
+Nevada,2020,Age,13-15 Years,44.4
+Nevada,2022,Age,13-15 Years,52.2
+Nevada,2021,Age,13-15 Years,52.1
+Nevada,2019,Age,13-15 Years,53.1
+Mississippi,2023,Age,13-17 Years,38.4
+Mississippi,2023,Age,13-15 Years,32.8
+Mississippi,2018-2022,Insurance Coverage,Other,25.0
+Mississippi,2018-2022,Insurance Coverage,Uninsured,25.2
+Mississippi,2018-2022,Insurance Coverage,Any Medicaid,37.1
+Mississippi,2018-2022,Insurance Coverage,Private Insurance Only,30.9
+Mississippi,2017,Age,13-17 Years,28.8
+Mississippi,2018,Age,13-17 Years,32.6
+Mississippi,2016,Age,13-17 Years,29.1
+Mississippi,2019,Age,13-17 Years,30.5
+Mississippi,2020,Age,13-17 Years,31.9
+Mississippi,2022,Age,13-17 Years,38.5
+Mississippi,2021,Age,13-17 Years,32.7
+Montana,2019,Age,13-15 Years,43.3
+Montana,2021,Age,13-15 Years,52.7
+Montana,2020,Age,13-15 Years,49.9
+Montana,2022,Age,13-15 Years,61.2
+Montana,2017,Age,13-17 Years,49.1
+Montana,2018,Age,13-17 Years,48.4
+Montana,2016,Age,13-17 Years,39.9
+Montana,2019,Age,13-17 Years,46.7
+Montana,2020,Age,13-17 Years,54.4
+Montana,2022,Age,13-17 Years,60.3
+Montana,2021,Age,13-17 Years,52.6
+Oklahoma,2018-2022,Insurance Coverage,Other,35.1
+Oklahoma,2018-2022,Insurance Coverage,Uninsured,42.3
+Oklahoma,2018-2022,Insurance Coverage,Any Medicaid,54.8
+Oklahoma,2018-2022,Insurance Coverage,Private Insurance Only,38.1
+Oklahoma,2018-2022,Poverty,Living At or Above Poverty Level,44.6
+Oklahoma,2018-2022,Poverty,Below Poverty Level,49.0
+Oklahoma,2018-2022,Race and Ethnicity,Hispanic,49.0
+Oklahoma,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",50.1
+Oklahoma,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",52.5
+Oklahoma,2018-2022,Race and Ethnicity,"White, Non-Hispanic",40.9
+Oklahoma,2018-2022,Urbanicity,Living In a MSA Principal City,49.1
+Oklahoma,2018-2022,Urbanicity,Living In a Non-MSA,43.9
+Oklahoma,2018-2022,Urbanicity,Living In a MSA Non-Principal City,44.4
+Oklahoma,2018-2022,Overall,Overall,45.7
+Oklahoma,2023,Age,13-17 Years,44.2
+Oklahoma,2023,Age,13-15 Years,36.1
+Tennessee,2019,Age,13-15 Years,46.6
+Tennessee,2021,Age,13-15 Years,55.8
+Tennessee,2020,Age,13-15 Years,52.4
+Tennessee,2022,Age,13-15 Years,59.5
+Tennessee,2018,Age,13-17 Years,44.4
+Tennessee,2017,Age,13-17 Years,39.2
+Missouri,2023,Age,13-15 Years,50.4
+Missouri,2023,Age,13-17 Years,57.7
+Washington,2018-2022,Overall,Overall,60.7
+Washington,2018-2022,Urbanicity,Living In a MSA Principal City,64.5
+Washington,2018-2022,Urbanicity,Living In a MSA Non-Principal City,56.9
+Washington,2018-2022,Urbanicity,Living In a Non-MSA,55.5
+Washington,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",80.7
+Washington,2018-2022,Race and Ethnicity,"White, Non-Hispanic",55.7
+Washington,2018-2022,Race and Ethnicity,Hispanic,70.5
+Washington,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",61.3
+Washington,2018-2022,Insurance Coverage,Any Medicaid,61.8
+Washington,2018-2022,Insurance Coverage,Private Insurance Only,60.8
+Washington,2018-2022,Insurance Coverage,Other,62.3
+Washington,2018-2022,Poverty,Below Poverty Level,63.4
+Washington,2018-2022,Poverty,Living At or Above Poverty Level,59.4
+Washington,2022,Age,13-15 Years,65.9
+Washington,2019,Age,13-15 Years,53.0
+Washington,2021,Age,13-15 Years,61.6
+Washington,2020,Age,13-15 Years,55.7
+Washington,2017,Age,13-17 Years,55.2
+Washington,2018,Age,13-17 Years,51.6
+Washington,2016,Age,13-17 Years,49.5
+Washington,2021,Age,13-17 Years,67.8
+Washington,2022,Age,13-17 Years,71.1
+Washington,2020,Age,13-17 Years,59.0
+Washington,2019,Age,13-17 Years,53.3
+Guam,2022,Age,13-15 Years,40.5
+Guam,2020,Age,13-15 Years,50.1
+Guam,2021,Age,13-15 Years,48.8
+Guam,2019,Age,13-15 Years,40.9
+Guam,2019,Age,13-17 Years,43.8
+Guam,2018,Age,13-17 Years,45.6
+Guam,2017,Age,13-17 Years,42.7
+Guam,2022,Age,13-17 Years,44.6
+Guam,2021,Age,13-17 Years,54.0
+Guam,2020,Age,13-17 Years,47.4
+Guam,2016,Age,13-17 Years,44.2
+Guam,2023,Age,13-17 Years,51.9
+Guam,2023,Age,13-15 Years,56.5
+Maine,2023,Age,13-15 Years,58.8
+Maine,2023,Age,13-17 Years,61.2
+Maine,2018-2022,Overall,Overall,59.0
+Maine,2018-2022,Urbanicity,Living In a MSA Principal City,63.9
+Maine,2018-2022,Urbanicity,Living In a MSA Non-Principal City,58.9
+Maine,2018-2022,Urbanicity,Living In a Non-MSA,56.9
+Maine,2018-2022,Race and Ethnicity,"White, Non-Hispanic",59.2
+Maine,2018-2022,Race and Ethnicity,Hispanic,54.8
+Maine,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",59.3
+Maine,2018-2022,Poverty,Below Poverty Level,57.1
+Maine,2018-2022,Poverty,Living At or Above Poverty Level,59.2
+Maine,2018-2022,Insurance Coverage,Private Insurance Only,59.4
+Maine,2018-2022,Insurance Coverage,Any Medicaid,58.8
+Maine,2018-2022,Insurance Coverage,Uninsured,59.6
+Maine,2018-2022,Insurance Coverage,Other,55.1
+Maine,2021,Age,13-17 Years,61.5
+Maine,2022,Age,13-17 Years,66.2
+Maine,2020,Age,13-17 Years,63.5
+Maine,2019,Age,13-17 Years,52.6
+Maine,2018,Age,13-17 Years,50.7
+Maine,2017,Age,13-17 Years,59.2
+Maine,2016,Age,13-17 Years,56.0
+Maine,2020,Age,13-15 Years,60.9
+Maine,2019,Age,13-15 Years,40.0
+Maine,2021,Age,13-15 Years,56.1
+Maine,2022,Age,13-15 Years,58.7
+Kansas,2018-2022,Insurance Coverage,Other,54.4
+Kansas,2018-2022,Insurance Coverage,Uninsured,33.4
+Kansas,2018-2022,Insurance Coverage,Any Medicaid,63.5
+Kansas,2018-2022,Insurance Coverage,Private Insurance Only,52.0
+Kansas,2018-2022,Poverty,Living At or Above Poverty Level,51.8
+Kansas,2018-2022,Poverty,Below Poverty Level,62.8
+Kansas,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",52.4
+Kansas,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",57.7
+Kansas,2018-2022,Race and Ethnicity,Hispanic,66.4
+Kansas,2018-2022,Race and Ethnicity,"White, Non-Hispanic",50.2
+Kansas,2018-2022,Urbanicity,Living In a Non-MSA,45.6
+Kansas,2018-2022,Urbanicity,Living In a MSA Non-Principal City,51.4
+Kansas,2018-2022,Urbanicity,Living In a MSA Principal City,60.5
+Kansas,2018-2022,Overall,Overall,53.8
+Kansas,2023,Age,13-17 Years,60.4
+Kansas,2023,Age,13-15 Years,58.5
+Kansas,2020,Age,13-17 Years,53.3
+Kansas,2022,Age,13-17 Years,60.7
+Kansas,2021,Age,13-17 Years,64.3
+Kansas,2019,Age,13-17 Years,49.5
+Kansas,2018,Age,13-17 Years,40.7
+Kansas,2017,Age,13-17 Years,34.4
+Kansas,2016,Age,13-17 Years,35.6
+Alabama,2023,Age,13-15 Years,59.1
+Alabama,2023,Age,13-17 Years,60.3
+Alabama,2018-2022,Insurance Coverage,Other,46.9
+Alabama,2018-2022,Insurance Coverage,Any Medicaid,61.8
+Alabama,2018-2022,Insurance Coverage,Private Insurance Only,50.2
+Alabama,2018-2022,Poverty,Living At or Above Poverty Level,51.6
+Alabama,2018-2022,Poverty,Below Poverty Level,62.6
+Alabama,2018-2022,Race and Ethnicity,"White, Non-Hispanic",49.5
+Alabama,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",60.9
+Alabama,2018-2022,Race and Ethnicity,Hispanic,56.2
+Alabama,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",62.5
+Alabama,2018-2022,Urbanicity,Living In a Non-MSA,45.9
+Alabama,2018-2022,Urbanicity,Living In a MSA Non-Principal City,51.3
+Alabama,2018-2022,Urbanicity,Living In a MSA Principal City,60.9
+Alabama,2018-2022,Overall,Overall,54.5
+Alabama,2019,Age,13-15 Years,45.8
+Alabama,2021,Age,13-15 Years,63.0
+Alabama,2020,Age,13-15 Years,55.0
+Alabama,2019,Age,13-17 Years,47.3
+Alabama,2020,Age,13-17 Years,52.9
+Alabama,2021,Age,13-17 Years,62.5
+Alabama,2022,Age,13-17 Years,59.2
+Alabama,2017,Age,13-17 Years,40.3
+Alabama,2018,Age,13-17 Years,50.2
+Utah,2020,Age,13-15 Years,41.9
+Utah,2021,Age,13-15 Years,57.6
+Utah,2019,Age,13-15 Years,44.3
+Utah,2022,Age,13-15 Years,54.7
+Tennessee,2023,Age,13-15 Years,54.2
+Tennessee,2023,Age,13-17 Years,55.0
+Tennessee,2018-2022,Overall,Overall,52.4
+Tennessee,2018-2022,Urbanicity,Living In a MSA Non-Principal City,49.3
+Tennessee,2018-2022,Urbanicity,Living In a Non-MSA,45.7
+Tennessee,2018-2022,Urbanicity,Living In a MSA Principal City,57.4
+Tennessee,2018-2022,Race and Ethnicity,"White, Non-Hispanic",48.7
+Tennessee,2018-2022,Race and Ethnicity,Hispanic,58.3
+Tennessee,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",52.8
+Tennessee,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",63.4
+Tennessee,2018-2022,Poverty,Below Poverty Level,50.5
+Tennessee,2018-2022,Poverty,Living At or Above Poverty Level,52.1
+Tennessee,2018-2022,Insurance Coverage,Any Medicaid,58.2
+Tennessee,2018-2022,Insurance Coverage,Private Insurance Only,52.0
+Tennessee,2018-2022,Insurance Coverage,Other,40.0
+Tennessee,2018-2022,Insurance Coverage,Uninsured,37.7
+Tennessee,2016,Age,13-17 Years,36.0
+Tennessee,2021,Age,13-17 Years,56.5
+Tennessee,2022,Age,13-17 Years,64.4
+Tennessee,2019,Age,13-17 Years,43.0
+Tennessee,2020,Age,13-17 Years,52.9
+California,2023,Age,13-15 Years,56.1
+California,2023,Age,13-17 Years,57.6
+California,2018-2022,Insurance Coverage,Other,53.3
+California,2018-2022,Insurance Coverage,Any Medicaid,62.5
+California,2018-2022,Insurance Coverage,Private Insurance Only,59.5
+California,2018-2022,Poverty,Living At or Above Poverty Level,59.2
+California,2018-2022,Poverty,Below Poverty Level,65.3
+California,2018-2022,Race and Ethnicity,"White, Non-Hispanic",51.9
+California,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",65.8
+California,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",72.5
+California,2018-2022,Race and Ethnicity,Hispanic,61.0
+California,2018-2022,Urbanicity,Living In a Non-MSA,67.2
+California,2018-2022,Urbanicity,Living In a MSA Non-Principal City,60.9
+California,2018-2022,Urbanicity,Living In a MSA Principal City,59.3
+California,2018-2022,Overall,Overall,60.2
+Alaska,2022,Age,13-17 Years,57.8
+Alaska,2021,Age,13-17 Years,56.2
+Alaska,2020,Age,13-17 Years,54.9
+Alaska,2019,Age,13-17 Years,52.6
+Alaska,2018,Age,13-17 Years,44.1
+Alaska,2017,Age,13-17 Years,42.6
+Alaska,2016,Age,13-17 Years,43.3
+Alaska,2020,Age,13-15 Years,55.2
+Alaska,2021,Age,13-15 Years,48.1
+Alaska,2019,Age,13-15 Years,51.2
+Alaska,2022,Age,13-15 Years,52.5
+Kentucky,2018-2022,Overall,Overall,53.1
+Kentucky,2018-2022,Urbanicity,Living In a MSA Principal City,59.9
+Kentucky,2018-2022,Urbanicity,Living In a MSA Non-Principal City,55.2
+Kentucky,2018-2022,Urbanicity,Living In a Non-MSA,41.4
+Kentucky,2018-2022,Race and Ethnicity,"White, Non-Hispanic",52.4
+Kentucky,2018-2022,Race and Ethnicity,Hispanic,44.5
+Kentucky,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",67.5
+Kentucky,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",51.3
+Kentucky,2018-2022,Poverty,Below Poverty Level,49.6
+Kentucky,2018-2022,Poverty,Living At or Above Poverty Level,53.3
+Kentucky,2018-2022,Insurance Coverage,Private Insurance Only,56.6
+Kentucky,2018-2022,Insurance Coverage,Any Medicaid,52.1
+Kentucky,2018-2022,Insurance Coverage,Uninsured,29.5
+Kentucky,2018-2022,Insurance Coverage,Other,41.0
+Kentucky,2022,Age,13-15 Years,51.4
+Kentucky,2021,Age,13-17 Years,57.0
+Kentucky,2022,Age,13-17 Years,55.0
+Kentucky,2020,Age,13-17 Years,55.7
+Kentucky,2017,Age,13-17 Years,37.7
+Kentucky,2018,Age,13-17 Years,42.6
+Kentucky,2019,Age,13-17 Years,54.9
+Kentucky,2016,Age,13-17 Years,34.0
+Kentucky,2019,Age,13-15 Years,52.8
+Kentucky,2021,Age,13-15 Years,50.6
+Kentucky,2020,Age,13-15 Years,52.8
+Kentucky,2023,Age,13-15 Years,44.5
+Kentucky,2023,Age,13-17 Years,47.9
+Delaware,2018-2022,Overall,Overall,63.6
+Delaware,2018-2022,Urbanicity,Living In a MSA Principal City,66.5
+Delaware,2018-2022,Urbanicity,Living In a MSA Non-Principal City,62.1
+Delaware,2018-2022,Race and Ethnicity,"White, Non-Hispanic",62.9
+Delaware,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",62.5
+Delaware,2018-2022,Race and Ethnicity,Hispanic,68.0
+Delaware,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",62.7
+Delaware,2018-2022,Poverty,Below Poverty Level,61.8
+Delaware,2018-2022,Poverty,Living At or Above Poverty Level,64.3
+Delaware,2018-2022,Insurance Coverage,Private Insurance Only,63.8
+Delaware,2018-2022,Insurance Coverage,Any Medicaid,64.0
+Delaware,2018-2022,Insurance Coverage,Uninsured,59.5
+Delaware,2018-2022,Insurance Coverage,Other,61.2
+Delaware,2023,Age,13-17 Years,73.0
+Delaware,2023,Age,13-15 Years,69.1
+Delaware,2019,Age,13-17 Years,59.2
+Delaware,2018,Age,13-17 Years,58.4
+Delaware,2017,Age,13-17 Years,58.1
+Delaware,2016,Age,13-17 Years,56.9
+Delaware,2022,Age,13-17 Years,68.2
+Delaware,2021,Age,13-17 Years,68.9
+Delaware,2020,Age,13-17 Years,63.2
+Texas,2018-2022,Insurance Coverage,Uninsured,38.9
+Texas,2018-2022,Insurance Coverage,Other,48.5
+Texas,2018-2022,Insurance Coverage,Private Insurance Only,48.6
+Texas,2018-2022,Insurance Coverage,Any Medicaid,59.2
+Texas,2018-2022,Poverty,Living At or Above Poverty Level,48.4
+Texas,2018-2022,Poverty,Below Poverty Level,63.5
+Texas,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",49.9
+Texas,2018-2022,Race and Ethnicity,Hispanic,55.8
+Texas,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",52.1
+Texas,2018-2022,Race and Ethnicity,"White, Non-Hispanic",45.0
+Texas,2018-2022,Urbanicity,Living In a MSA Principal City,54.7
+Texas,2018-2022,Urbanicity,Living In a Non-MSA,49.7
+Texas,2018-2022,Urbanicity,Living In a MSA Non-Principal City,48.8
+Texas,2018-2022,Overall,Overall,51.5
+Texas,2023,Age,13-17 Years,57.5
+Texas,2023,Age,13-15 Years,54.3
+Texas,2022,Age,13-17 Years,58.5
+Texas,2021,Age,13-17 Years,51.5
+Texas,2020,Age,13-17 Years,54.9
+Texas,2019,Age,13-17 Years,48.4
+Texas,2016,Age,13-17 Years,32.9
+Texas,2017,Age,13-17 Years,39.7
+Texas,2018,Age,13-17 Years,43.5
+Texas,2022,Age,13-15 Years,54.0
+Texas,2020,Age,13-15 Years,52.0
+Texas,2021,Age,13-15 Years,46.4
+Texas,2019,Age,13-15 Years,48.2
+Idaho,2019,Age,13-15 Years,38.2
+Idaho,2021,Age,13-15 Years,61.0
+Idaho,2016,Age,13-17 Years,36.5
+Idaho,2019,Age,13-17 Years,44.1
+Idaho,2018,Age,13-17 Years,43.4
+Idaho,2017,Age,13-17 Years,44.1
+Idaho,2020,Age,13-17 Years,54.5
+Idaho,2022,Age,13-17 Years,66.9
+Idaho,2021,Age,13-17 Years,61.6
+Idaho,2020,Age,13-15 Years,53.4
+Idaho,2022,Age,13-15 Years,61.9
+Virginia,2023,Age,13-17 Years,62.9
+Virginia,2023,Age,13-15 Years,56.0
+Virginia,2016,Age,13-17 Years,39.2
+Virginia,2018,Age,13-17 Years,54.9
+Virginia,2017,Age,13-17 Years,59.0
+Virginia,2021,Age,13-17 Years,64.9
+Virginia,2022,Age,13-17 Years,62.7
+Virginia,2020,Age,13-17 Years,56.4
+Virginia,2019,Age,13-17 Years,55.2
+Virginia,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",51.2
+Virginia,2018-2022,Race and Ethnicity,Hispanic,65.3
+Virginia,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",62.1
+Virginia,2018-2022,Race and Ethnicity,"White, Non-Hispanic",58.0
+Virginia,2018-2022,Urbanicity,Living In a Non-MSA,50.4
+Virginia,2018-2022,Urbanicity,Living In a MSA Non-Principal City,58.2
+Virginia,2018-2022,Urbanicity,Living In a MSA Principal City,62.2
+Virginia,2018-2022,Overall,Overall,58.9
+Virginia,2018-2022,Poverty,Living At or Above Poverty Level,58.7
+Virginia,2018-2022,Poverty,Below Poverty Level,57.9
+Virginia,2018-2022,Insurance Coverage,Uninsured,44.1
+Virginia,2018-2022,Insurance Coverage,Other,53.5
+Virginia,2018-2022,Insurance Coverage,Private Insurance Only,61.9
+Virginia,2018-2022,Insurance Coverage,Any Medicaid,56.2
+Iowa,2019,Age,13-15 Years,57.7
+Iowa,2021,Age,13-15 Years,67.1
+Iowa,2020,Age,13-15 Years,59.6
+Iowa,2022,Age,13-15 Years,72.9
+Iowa,2016,Age,13-17 Years,45.5
+Iowa,2017,Age,13-17 Years,53.7
+Iowa,2018,Age,13-17 Years,55.1
+Iowa,2019,Age,13-17 Years,60.9
+Iowa,2021,Age,13-17 Years,66.1
+Iowa,2022,Age,13-17 Years,74.9
+Iowa,2020,Age,13-17 Years,60.3
+Wyoming,2023,Age,13-17 Years,54.2
+Wyoming,2023,Age,13-15 Years,47.9
+Wyoming,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",42.4
+Wyoming,2018-2022,Race and Ethnicity,Hispanic,48.9
+Wyoming,2018-2022,Race and Ethnicity,"White, Non-Hispanic",44.5
+Wyoming,2018-2022,Urbanicity,Living In a Non-MSA,43.4
+Wyoming,2018-2022,Urbanicity,Living In a MSA Non-Principal City,34.6
+Wyoming,2018-2022,Urbanicity,Living In a MSA Principal City,48.9
+Wyoming,2018-2022,Overall,Overall,45.2
+Wyoming,2021,Age,13-17 Years,48.0
+Wyoming,2022,Age,13-17 Years,49.2
+Wyoming,2017,Age,13-17 Years,30.9
+Wyoming,2018,Age,13-17 Years,42.0
+Wyoming,2019,Age,13-17 Years,41.5
+Wyoming,2020,Age,13-17 Years,44.8
+Wyoming,2016,Age,13-17 Years,26.7
+Wyoming,2018-2022,Poverty,Living At or Above Poverty Level,43.3
+Wyoming,2018-2022,Poverty,Below Poverty Level,47.6
+Wyoming,2018-2022,Insurance Coverage,Uninsured,42.7
+Wyoming,2018-2022,Insurance Coverage,Other,45.7
+Wyoming,2018-2022,Insurance Coverage,Private Insurance Only,43.3
+Wyoming,2018-2022,Insurance Coverage,Any Medicaid,50.3
+Arkansas,2022,Age,13-17 Years,55.7
+Arkansas,2021,Age,13-17 Years,56.8
+Arkansas,2020,Age,13-17 Years,49.6
+Arkansas,2019,Age,13-17 Years,50.5
+Arkansas,2018,Age,13-17 Years,42.6
+Arkansas,2017,Age,13-17 Years,35.2
+Arkansas,2023,Age,13-17 Years,52.9
+Arkansas,2023,Age,13-15 Years,51.2
+Arkansas,2018-2022,Overall,Overall,51.1
+Arkansas,2018-2022,Urbanicity,Living In a MSA Principal City,58.0
+Arkansas,2018-2022,Urbanicity,Living In a MSA Non-Principal City,50.1
+Arkansas,2018-2022,Urbanicity,Living In a Non-MSA,44.1
+Arkansas,2018-2022,Race and Ethnicity,Hispanic,49.6
+Arkansas,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",61.4
+Arkansas,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",51.4
+Arkansas,2018-2022,Race and Ethnicity,"White, Non-Hispanic",48.5
+Arkansas,2018-2022,Poverty,Below Poverty Level,50.1
+Arkansas,2018-2022,Poverty,Living At or Above Poverty Level,50.8
+Arkansas,2018-2022,Insurance Coverage,Private Insurance Only,49.3
+Arkansas,2018-2022,Insurance Coverage,Any Medicaid,54.1
+Arkansas,2018-2022,Insurance Coverage,Other,51.6
+Arkansas,2018-2022,Insurance Coverage,Uninsured,36.4
+Georgia,2023,Age,13-15 Years,40.1
+Georgia,2023,Age,13-17 Years,40.5
+Georgia,2018-2022,Insurance Coverage,Uninsured,24.5
+Georgia,2018-2022,Insurance Coverage,Other,59.1
+Georgia,2018-2022,Insurance Coverage,Any Medicaid,60.4
+Georgia,2018-2022,Insurance Coverage,Private Insurance Only,54.3
+Georgia,2018-2022,Poverty,Living At or Above Poverty Level,53.2
+Georgia,2018-2022,Poverty,Below Poverty Level,62.0
+Georgia,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",57.1
+Georgia,2018-2022,Race and Ethnicity,Hispanic,63.2
+Georgia,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",53.8
+Georgia,2018-2022,Race and Ethnicity,"White, Non-Hispanic",53.8
+Georgia,2018-2022,Urbanicity,Living In a Non-MSA,53.6
+Georgia,2018-2022,Urbanicity,Living In a MSA Non-Principal City,51.6
+Georgia,2018-2022,Urbanicity,Living In a MSA Principal City,63.5
+Georgia,2018-2022,Overall,Overall,55.4
+Georgia,2017,Age,13-17 Years,45.7
+Georgia,2018,Age,13-17 Years,49.6
+Georgia,2019,Age,13-17 Years,49.7
+Georgia,2016,Age,13-17 Years,45.6
+Georgia,2020,Age,13-17 Years,54.9
+Georgia,2021,Age,13-17 Years,60.9
+Georgia,2022,Age,13-17 Years,61.5
+Georgia,2019,Age,13-15 Years,45.0
+Georgia,2021,Age,13-15 Years,58.7
+Georgia,2020,Age,13-15 Years,49.5
+Georgia,2022,Age,13-15 Years,59.0
+Missouri,2018-2022,Overall,Overall,53.9
+Missouri,2018-2022,Urbanicity,Living In a Non-MSA,29.4
+Missouri,2018-2022,Urbanicity,Living In a MSA Non-Principal City,54.5
+Missouri,2018-2022,Urbanicity,Living In a MSA Principal City,64.4
+Missouri,2018-2022,Race and Ethnicity,"White, Non-Hispanic",52.1
+Missouri,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",68.2
+Missouri,2018-2022,Race and Ethnicity,Hispanic,52.1
+Missouri,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",49.5
+Missouri,2018-2022,Poverty,Below Poverty Level,58.0
+Missouri,2018-2022,Poverty,Living At or Above Poverty Level,52.9
+Missouri,2018-2022,Insurance Coverage,Private Insurance Only,55.8
+Missouri,2018-2022,Insurance Coverage,Any Medicaid,53.2
+Missouri,2018-2022,Insurance Coverage,Uninsured,34.9
+Missouri,2018-2022,Insurance Coverage,Other,48.3
+Missouri,2021,Age,13-17 Years,59.3
+Missouri,2022,Age,13-17 Years,59.8
+Missouri,2020,Age,13-17 Years,53.6
+Missouri,2019,Age,13-17 Years,54.3
+Missouri,2016,Age,13-17 Years,35.8
+Missouri,2018,Age,13-17 Years,42.1
+Missouri,2017,Age,13-17 Years,39.6
+Missouri,2022,Age,13-15 Years,57.2
+Missouri,2020,Age,13-15 Years,44.6
+Missouri,2021,Age,13-15 Years,56.6
+Missouri,2019,Age,13-15 Years,54.8
+South Dakota,2023,Age,13-17 Years,72.3
+South Dakota,2023,Age,13-15 Years,65.6
+South Dakota,2018-2022,Insurance Coverage,Uninsured,51.5
+South Dakota,2018-2022,Insurance Coverage,Other,61.2
+South Dakota,2018-2022,Insurance Coverage,Private Insurance Only,66.8
+South Dakota,2018-2022,Insurance Coverage,Any Medicaid,65.0
+South Dakota,2018-2022,Poverty,Living At or Above Poverty Level,65.0
+South Dakota,2018-2022,Poverty,Below Poverty Level,66.3
+South Dakota,2018-2022,Race and Ethnicity,Hispanic,61.4
+South Dakota,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",70.9
+South Dakota,2018-2022,Race and Ethnicity,"White, Non-Hispanic",64.0
+South Dakota,2018-2022,Urbanicity,Living In a MSA Principal City,69.7
+South Dakota,2018-2022,Urbanicity,Living In a Non-MSA,60.7
+South Dakota,2018-2022,Urbanicity,Living In a MSA Non-Principal City,68.8
+South Dakota,2018-2022,Overall,Overall,65.2
+Connecticut,2023,Age,13-15 Years,63.1
+Connecticut,2023,Age,13-17 Years,71.2
+Connecticut,2018-2022,Insurance Coverage,Uninsured,42.6
+Connecticut,2018-2022,Insurance Coverage,Other,61.3
+Connecticut,2018-2022,Insurance Coverage,Any Medicaid,69.4
+Connecticut,2018-2022,Insurance Coverage,Private Insurance Only,61.0
+Connecticut,2018-2022,Poverty,Living At or Above Poverty Level,61.2
+Connecticut,2018-2022,Poverty,Below Poverty Level,71.2
+Connecticut,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",61.2
+Connecticut,2018-2022,Race and Ethnicity,Hispanic,67.5
+Connecticut,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",71.2
+Connecticut,2018-2022,Race and Ethnicity,"White, Non-Hispanic",58.6
+Connecticut,2018-2022,Urbanicity,Living In a Non-MSA,53.4
+Connecticut,2018-2022,Urbanicity,Living In a MSA Non-Principal City,61.0
+Connecticut,2018-2022,Urbanicity,Living In a MSA Principal City,67.2
+Connecticut,2018-2022,Overall,Overall,62.4
+Hawaii,2023,Age,13-15 Years,68.1
+Hawaii,2023,Age,13-17 Years,70.4
+Hawaii,2018-2022,Overall,Overall,68.9
+Hawaii,2018-2022,Urbanicity,Living In a MSA Principal City,69.1
+Hawaii,2018-2022,Urbanicity,Living In a MSA Non-Principal City,71.2
+Hawaii,2018-2022,Urbanicity,Living In a Non-MSA,62.4
+Hawaii,2018-2022,Race and Ethnicity,"White, Non-Hispanic",59.2
+Hawaii,2018-2022,Race and Ethnicity,Hispanic,65.3
+Hawaii,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",72.4
+Hawaii,2018-2022,Poverty,Below Poverty Level,60.3
+Hawaii,2018-2022,Poverty,Living At or Above Poverty Level,70.1
+Hawaii,2018-2022,Insurance Coverage,Private Insurance Only,74.0
+Hawaii,2018-2022,Insurance Coverage,Any Medicaid,66.1
+Hawaii,2018-2022,Insurance Coverage,Other,58.6
+Hawaii,2016,Age,13-17 Years,54.0
+Hawaii,2017,Age,13-17 Years,54.7
+Hawaii,2018,Age,13-17 Years,60.7
+Hawaii,2019,Age,13-17 Years,66.0
+Hawaii,2020,Age,13-17 Years,73.9
+Hawaii,2021,Age,13-17 Years,69.3
+Hawaii,2022,Age,13-17 Years,74.2
+Hawaii,2022,Age,13-15 Years,69.1
+Hawaii,2019,Age,13-15 Years,60.7
+Hawaii,2021,Age,13-15 Years,66.2
+Hawaii,2020,Age,13-15 Years,69.5
+Oregon,2023,Age,13-15 Years,65.3
+Oregon,2023,Age,13-17 Years,67.6
+Oregon,2018-2022,Overall,Overall,62.7
+Oregon,2018-2022,Urbanicity,Living In a MSA Non-Principal City,57.8
+Oregon,2018-2022,Urbanicity,Living In a Non-MSA,58.0
+Oregon,2018-2022,Urbanicity,Living In a MSA Principal City,66.6
+Oregon,2018-2022,Race and Ethnicity,"White, Non-Hispanic",61.6
+Oregon,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",60.9
+Oregon,2018-2022,Race and Ethnicity,Hispanic,65.6
+Oregon,2018-2022,Poverty,Below Poverty Level,56.9
+Oregon,2018-2022,Poverty,Living At or Above Poverty Level,63.9
+Oregon,2018-2022,Insurance Coverage,Private Insurance Only,64.6
+Oregon,2018-2022,Insurance Coverage,Any Medicaid,62.6
+Oregon,2018-2022,Insurance Coverage,Other,56.7
+Oregon,2021,Age,13-17 Years,67.0
+Oregon,2022,Age,13-17 Years,65.6
+Oregon,2020,Age,13-17 Years,61.6
+Oregon,2019,Age,13-17 Years,60.8
+Oregon,2016,Age,13-17 Years,47.5
+Oregon,2017,Age,13-17 Years,54.8
+Oregon,2018,Age,13-17 Years,58.2
+Rhode Island,2023,Age,13-17 Years,84.2
+Rhode Island,2023,Age,13-15 Years,80.4
+Rhode Island,2018-2022,Insurance Coverage,Uninsured,68.9
+Rhode Island,2018-2022,Insurance Coverage,Other,83.2
+Rhode Island,2018-2022,Insurance Coverage,Private Insurance Only,85.4
+Rhode Island,2018-2022,Insurance Coverage,Any Medicaid,76.9
+Rhode Island,2018-2022,Poverty,Living At or Above Poverty Level,83.5
+Rhode Island,2018-2022,Poverty,Below Poverty Level,72.5
+Rhode Island,2018-2022,Race and Ethnicity,Hispanic,79.7
+Rhode Island,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",78.1
+Rhode Island,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",79.9
+Rhode Island,2018-2022,Race and Ethnicity,"White, Non-Hispanic",83.3
+Rhode Island,2018-2022,Urbanicity,Living In a MSA Principal City,84.5
+Rhode Island,2018-2022,Urbanicity,Living In a MSA Non-Principal City,80.6
+Rhode Island,2018-2022,Overall,Overall,81.7
+Rhode Island,2022,Age,13-17 Years,85.2
+Rhode Island,2021,Age,13-17 Years,83.2
+Rhode Island,2020,Age,13-17 Years,83.0
+Rhode Island,2016,Age,13-17 Years,70.8
+Rhode Island,2017,Age,13-17 Years,77.7
+Rhode Island,2018,Age,13-17 Years,78.1
+Rhode Island,2019,Age,13-17 Years,78.9
+New Mexico,2018-2022,Overall,Overall,58.9
+New Mexico,2018-2022,Urbanicity,Living In a MSA Non-Principal City,60.9
+New Mexico,2018-2022,Urbanicity,Living In a Non-MSA,51.7
+New Mexico,2018-2022,Urbanicity,Living In a MSA Principal City,61.6
+New Mexico,2018-2022,Race and Ethnicity,"White, Non-Hispanic",50.9
+New Mexico,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",62.6
+New Mexico,2018-2022,Race and Ethnicity,Hispanic,62.1
+New Mexico,2018-2022,Poverty,Below Poverty Level,60.3
+New Mexico,2018-2022,Poverty,Living At or Above Poverty Level,59.1
+New Mexico,2018-2022,Insurance Coverage,Private Insurance Only,57.9
+New Mexico,2018-2022,Insurance Coverage,Any Medicaid,60.0
+New Mexico,2018-2022,Insurance Coverage,Other,60.3
+New Mexico,2018-2022,Insurance Coverage,Uninsured,50.2
+New Mexico,2022,Age,13-15 Years,58.5
+New Mexico,2019,Age,13-15 Years,51.8
+New Mexico,2021,Age,13-15 Years,54.0
+New Mexico,2019,Age,13-17 Years,59.8
+New Mexico,2020,Age,13-17 Years,59.2
+New Mexico,2021,Age,13-17 Years,57.9
+New Mexico,2022,Age,13-17 Years,60.8
+New Mexico,2018,Age,13-17 Years,57.0
+New Mexico,2017,Age,13-17 Years,48.3
+New Mexico,2016,Age,13-17 Years,42.9
+New Mexico,2020,Age,13-15 Years,53.3
+Nevada,2018-2022,Insurance Coverage,Uninsured,50.2
+Nevada,2018-2022,Insurance Coverage,Other,57.9
+Nevada,2018-2022,Insurance Coverage,Any Medicaid,58.5
+Nevada,2018-2022,Insurance Coverage,Private Insurance Only,51.0
+Nevada,2018-2022,Poverty,Living At or Above Poverty Level,51.6
+Nevada,2018-2022,Poverty,Below Poverty Level,62.0
+Nevada,2018-2022,Race and Ethnicity,Hispanic,61.3
+Nevada,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",51.8
+Nevada,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",38.1
+Nevada,2018-2022,Race and Ethnicity,"White, Non-Hispanic",50.9
+Nevada,2018-2022,Urbanicity,Living In a MSA Principal City,55.9
+Nevada,2018-2022,Urbanicity,Living In a MSA Non-Principal City,51.0
+Nevada,2018-2022,Urbanicity,Living In a Non-MSA,46.0
+Nevada,2018-2022,Overall,Overall,54.1
+Nevada,2023,Age,13-17 Years,48.5
+Nevada,2023,Age,13-15 Years,44.1
+Nevada,2022,Age,13-17 Years,59.5
+Nevada,2021,Age,13-17 Years,56.5
+Nevada,2020,Age,13-17 Years,50.1
+Nevada,2019,Age,13-17 Years,52.9
+Nevada,2016,Age,13-17 Years,39.9
+Nevada,2017,Age,13-17 Years,49.0
+Nevada,2018,Age,13-17 Years,51.1
+Michigan,2023,Age,13-17 Years,73.2
+Michigan,2023,Age,13-15 Years,64.9
+Michigan,2018-2022,Insurance Coverage,Other,47.8
+Michigan,2018-2022,Insurance Coverage,Any Medicaid,61.7
+Michigan,2018-2022,Insurance Coverage,Private Insurance Only,62.6
+Michigan,2018-2022,Poverty,Living At or Above Poverty Level,60.3
+Michigan,2018-2022,Poverty,Below Poverty Level,59.8
+Michigan,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",55.5
+Michigan,2018-2022,Race and Ethnicity,Hispanic,66.4
+Michigan,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",63.6
+Michigan,2018-2022,Race and Ethnicity,"White, Non-Hispanic",59.9
+Michigan,2018-2022,Urbanicity,Living In a MSA Non-Principal City,59.7
+Michigan,2018-2022,Urbanicity,Living In a MSA Principal City,64.0
+Michigan,2018-2022,Urbanicity,Living In a Non-MSA,55.8
+Michigan,2018-2022,Overall,Overall,60.5
+Michigan,2022,Age,13-17 Years,62.2
+Michigan,2021,Age,13-17 Years,64.7
+Michigan,2020,Age,13-17 Years,61.3
+Michigan,2019,Age,13-17 Years,59.4
+Michigan,2016,Age,13-17 Years,44.8
+Michigan,2017,Age,13-17 Years,54.3
+Michigan,2018,Age,13-17 Years,55.0
+Iowa,2023,Age,13-15 Years,63.2
+Iowa,2023,Age,13-17 Years,68.2
+Iowa,2018-2022,Overall,Overall,63.6
+Iowa,2018-2022,Urbanicity,Living In a MSA Principal City,64.9
+Iowa,2018-2022,Urbanicity,Living In a MSA Non-Principal City,66.8
+Iowa,2018-2022,Urbanicity,Living In a Non-MSA,58.0
+Iowa,2018-2022,Race and Ethnicity,"White, Non-Hispanic",62.7
+Iowa,2018-2022,Race and Ethnicity,Hispanic,66.6
+Iowa,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",57.5
+Iowa,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",73.5
+Iowa,2018-2022,Poverty,Living At or Above Poverty Level,64.1
+Iowa,2018-2022,Poverty,Below Poverty Level,59.3
+Iowa,2018-2022,Insurance Coverage,Private Insurance Only,65.5
+Iowa,2018-2022,Insurance Coverage,Any Medicaid,60.1
+Iowa,2018-2022,Insurance Coverage,Other,68.9
+Louisiana,2018-2022,Insurance Coverage,Other,44.0
+Louisiana,2018-2022,Insurance Coverage,Uninsured,38.5
+Louisiana,2018-2022,Insurance Coverage,Any Medicaid,69.0
+Louisiana,2018-2022,Insurance Coverage,Private Insurance Only,48.5
+Louisiana,2018-2022,Poverty,Living At or Above Poverty Level,55.7
+Louisiana,2018-2022,Poverty,Below Poverty Level,71.3
+Louisiana,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",71.8
+Louisiana,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",70.6
+Louisiana,2018-2022,Race and Ethnicity,Hispanic,64.8
+Louisiana,2018-2022,Race and Ethnicity,"White, Non-Hispanic",49.2
+Louisiana,2018-2022,Urbanicity,Living In a Non-MSA,59.2
+Louisiana,2018-2022,Urbanicity,Living In a MSA Non-Principal City,59.5
+Louisiana,2018-2022,Urbanicity,Living In a MSA Principal City,59.9
+Louisiana,2018-2022,Overall,Overall,59.7
+Louisiana,2023,Age,13-17 Years,66.2
+Louisiana,2023,Age,13-15 Years,58.1
+Louisiana,2016,Age,13-17 Years,41.8
+Louisiana,2018,Age,13-17 Years,46.7
+Louisiana,2017,Age,13-17 Years,52.9
+Louisiana,2019,Age,13-17 Years,59.5
+Louisiana,2020,Age,13-17 Years,60.4
+Louisiana,2022,Age,13-17 Years,67.3
+Louisiana,2021,Age,13-17 Years,63.9
+New York,2020,Age,13-15 Years,65.1
+New York,2022,Age,13-15 Years,66.5
+New York,2021,Age,13-15 Years,61.1
+New York,2019,Age,13-15 Years,53.8
+New York,2022,Age,13-17 Years,70.7
+New York,2021,Age,13-17 Years,64.4
+New York,2020,Age,13-17 Years,68.1
+New York,2019,Age,13-17 Years,57.0
+New York,2016,Age,13-17 Years,55.7
+New York,2017,Age,13-17 Years,53.6
+New York,2018,Age,13-17 Years,57.3
+Idaho,2023,Age,13-17 Years,53.4
+Idaho,2023,Age,13-15 Years,50.0
+Idaho,2018-2022,Insurance Coverage,Other,37.9
+Idaho,2018-2022,Insurance Coverage,Uninsured,43.4
+Idaho,2018-2022,Insurance Coverage,Any Medicaid,61.3
+Idaho,2018-2022,Insurance Coverage,Private Insurance Only,52.3
+Idaho,2018-2022,Poverty,Below Poverty Level,56.9
+Idaho,2018-2022,Poverty,Living At or Above Poverty Level,53.7
+Idaho,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",57.1
+Idaho,2018-2022,Race and Ethnicity,Hispanic,59.8
+Idaho,2018-2022,Race and Ethnicity,"White, Non-Hispanic",52.6
+Idaho,2018-2022,Urbanicity,Living In a Non-MSA,49.9
+Idaho,2018-2022,Urbanicity,Living In a MSA Non-Principal City,55.9
+Idaho,2018-2022,Urbanicity,Living In a MSA Principal City,56.6
+Idaho,2018-2022,Overall,Overall,54.5
+Washington,2023,Age,13-15 Years,58.6
+Washington,2023,Age,13-17 Years,65.2
+West Virginia,2017,Age,13-17 Years,43.9
+West Virginia,2018,Age,13-17 Years,42.9
+West Virginia,2021,Age,13-17 Years,56.4
+West Virginia,2016,Age,13-17 Years,41.2
+West Virginia,2021,Age,13-15 Years,51.8
+West Virginia,2022,Age,13-15 Years,43.6
+West Virginia,2019,Age,13-15 Years,44.8
+West Virginia,2020,Age,13-17 Years,43.4
+West Virginia,2022,Age,13-17 Years,51.5
+West Virginia,2019,Age,13-17 Years,47.4
+West Virginia,2020,Age,13-15 Years,36.7
+Massachusetts,2022,Age,13-15 Years,72.1
+Massachusetts,2020,Age,13-15 Years,65.7
+Massachusetts,2021,Age,13-15 Years,73.5
+Massachusetts,2019,Age,13-15 Years,66.6
+Massachusetts,2021,Age,13-17 Years,75.0
+Massachusetts,2022,Age,13-17 Years,77.1
+Massachusetts,2020,Age,13-17 Years,73.4
+Massachusetts,2016,Age,13-17 Years,56.6
+Massachusetts,2017,Age,13-17 Years,65.5
+Massachusetts,2018,Age,13-17 Years,68.7
+Massachusetts,2019,Age,13-17 Years,74.3
+California,2019,Age,13-15 Years,60.8
+California,2021,Age,13-15 Years,68.6
+California,2020,Age,13-15 Years,58.1
+California,2022,Age,13-15 Years,55.3
+California,2017,Age,13-17 Years,53.4
+California,2018,Age,13-17 Years,52.6
+California,2019,Age,13-17 Years,56.4
+California,2016,Age,13-17 Years,49.1
+California,2020,Age,13-17 Years,62.3
+California,2021,Age,13-17 Years,69.0
+California,2022,Age,13-17 Years,60.6
+Pennsylvania,2018-2022,Insurance Coverage,Uninsured,34.4
+Pennsylvania,2018-2022,Insurance Coverage,Other,57.3
+Pennsylvania,2018-2022,Insurance Coverage,Any Medicaid,66.3
+Pennsylvania,2018-2022,Insurance Coverage,Private Insurance Only,63.7
+Pennsylvania,2018-2022,Poverty,Living At or Above Poverty Level,61.7
+Pennsylvania,2018-2022,Poverty,Below Poverty Level,69.8
+Pennsylvania,2018-2022,Race and Ethnicity,Hispanic,67.2
+Pennsylvania,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",61.5
+Pennsylvania,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",69.9
+Pennsylvania,2018-2022,Race and Ethnicity,"White, Non-Hispanic",61.7
+Pennsylvania,2023,Age,13-17 Years,65.6
+Pennsylvania,2023,Age,13-15 Years,64.1
+Pennsylvania,2018-2022,Urbanicity,Living In a MSA Principal City,71.4
+Pennsylvania,2018-2022,Urbanicity,Living In a Non-MSA,51.3
+Pennsylvania,2018-2022,Urbanicity,Living In a MSA Non-Principal City,61.3
+Pennsylvania,2018-2022,Overall,Overall,63.4
+South Dakota,2022,Age,13-15 Years,65.5
+South Dakota,2020,Age,13-15 Years,70.5
+South Dakota,2021,Age,13-15 Years,73.8
+South Dakota,2019,Age,13-15 Years,58.8
+South Dakota,2022,Age,13-17 Years,68.3
+South Dakota,2021,Age,13-17 Years,74.7
+South Dakota,2020,Age,13-17 Years,71.5
+South Dakota,2016,Age,13-17 Years,38.6
+South Dakota,2017,Age,13-17 Years,44.8
+South Dakota,2018,Age,13-17 Years,49.5
+South Dakota,2019,Age,13-17 Years,61.2
+Florida,2018-2022,Overall,Overall,52.5
+Florida,2018-2022,Urbanicity,Living In a MSA Principal City,51.6
+Florida,2018-2022,Urbanicity,Living In a MSA Non-Principal City,52.9
+Florida,2018-2022,Urbanicity,Living In a Non-MSA,67.8
+Florida,2018-2022,Race and Ethnicity,"White, Non-Hispanic",49.0
+Florida,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",54.6
+Florida,2018-2022,Race and Ethnicity,Hispanic,55.7
+Florida,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",52.2
+Florida,2018-2022,Poverty,Below Poverty Level,56.7
+Florida,2018-2022,Poverty,Living At or Above Poverty Level,52.9
+Florida,2018-2022,Insurance Coverage,Private Insurance Only,52.4
+Florida,2018-2022,Insurance Coverage,Any Medicaid,58.4
+Florida,2018-2022,Insurance Coverage,Other,44.2
+Florida,2018-2022,Insurance Coverage,Uninsured,31.7
+Florida,2023,Age,13-17 Years,64.4
+Florida,2023,Age,13-15 Years,58.4
+North Carolina,2019,Age,13-15 Years,43.0
+North Carolina,2021,Age,13-15 Years,65.6
+North Carolina,2020,Age,13-15 Years,60.2
+North Carolina,2022,Age,13-15 Years,52.3
+North Carolina,2019,Age,13-17 Years,49.5
+North Carolina,2020,Age,13-17 Years,60.7
+North Carolina,2021,Age,13-17 Years,67.8
+North Carolina,2022,Age,13-17 Years,54.8
+North Carolina,2016,Age,13-17 Years,41.2
+North Carolina,2018,Age,13-17 Years,52.1
+North Carolina,2017,Age,13-17 Years,51.9
+Virginia,2022,Age,13-15 Years,58.2
+Virginia,2019,Age,13-15 Years,47.6
+Virginia,2021,Age,13-15 Years,63.1
+Virginia,2020,Age,13-15 Years,48.5
+Puerto Rico,2023,Age,13-15 Years,69.8
+Puerto Rico,2023,Age,13-17 Years,76.0
+Puerto Rico,2019,Age,13-17 Years,58.4
+Puerto Rico,2020,Age,13-17 Years,49.8
+Puerto Rico,2021,Age,13-17 Years,67.2
+Puerto Rico,2022,Age,13-17 Years,70.3
+Puerto Rico,2016,Age,13-17 Years,52.8
+Puerto Rico,2019,Age,13-15 Years,56.1
+Puerto Rico,2021,Age,13-15 Years,64.1
+Puerto Rico,2020,Age,13-15 Years,54.6
+Puerto Rico,2022,Age,13-15 Years,69.9
+Maryland,2023,Age,13-17 Years,67.2
+Maryland,2023,Age,13-15 Years,63.6
+Maryland,2018-2022,Insurance Coverage,Other,58.7
+Maryland,2018-2022,Insurance Coverage,Uninsured,51.9
+Maryland,2018-2022,Insurance Coverage,Any Medicaid,67.9
+Maryland,2018-2022,Insurance Coverage,Private Insurance Only,68.9
+Maryland,2018-2022,Poverty,Living At or Above Poverty Level,67.8
+Maryland,2018-2022,Poverty,Below Poverty Level,63.5
+Maryland,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",65.9
+Maryland,2018-2022,Race and Ethnicity,Hispanic,69.5
+Maryland,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",66.1
+Maryland,2018-2022,Race and Ethnicity,"White, Non-Hispanic",68.6
+Maryland,2018-2022,Urbanicity,Living In a Non-MSA,86.0
+Maryland,2018-2022,Urbanicity,Living In a MSA Non-Principal City,66.1
+Maryland,2018-2022,Urbanicity,Living In a MSA Principal City,69.8
+Maryland,2018-2022,Overall,Overall,67.6
+New Jersey,2023,Age,13-17 Years,50.2
+New Jersey,2023,Age,13-15 Years,42.7
+New Jersey,2018-2022,Insurance Coverage,Uninsured,50.9
+New Jersey,2018-2022,Insurance Coverage,Other,57.4
+New Jersey,2018-2022,Insurance Coverage,Any Medicaid,57.6
+New Jersey,2018-2022,Insurance Coverage,Private Insurance Only,55.0
+New Jersey,2018-2022,Poverty,Living At or Above Poverty Level,54.6
+New Jersey,2018-2022,Poverty,Below Poverty Level,65.6
+New Jersey,2018-2022,Race and Ethnicity,Hispanic,63.3
+New Jersey,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",54.1
+New Jersey,2018-2022,Race and Ethnicity,"White, Non-Hispanic",52.2
+New Jersey,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",55.1
+New Jersey,2018-2022,Urbanicity,Living In a MSA Principal City,63.5
+New Jersey,2018-2022,Urbanicity,Living In a MSA Non-Principal City,54.4
+New Jersey,2018-2022,Overall,Overall,55.7
+New Jersey,2017,Age,13-17 Years,49.6
+New Jersey,2018,Age,13-17 Years,48.5
+New Jersey,2022,Age,13-17 Years,63.7
+New Jersey,2021,Age,13-17 Years,54.8
+New Jersey,2020,Age,13-17 Years,59.7
+New Jersey,2019,Age,13-17 Years,51.4
+New Jersey,2016,Age,13-17 Years,42.8
+New Jersey,2020,Age,13-15 Years,52.9
+New Jersey,2022,Age,13-15 Years,61.5
+New Jersey,2021,Age,13-15 Years,53.4
+New Jersey,2019,Age,13-15 Years,44.9
+Arkansas,2016,Age,13-17 Years,34.5
+Arkansas,2020,Age,13-15 Years,45.8
+Arkansas,2021,Age,13-15 Years,52.0
+Arkansas,2019,Age,13-15 Years,42.1
+Arkansas,2022,Age,13-15 Years,51.4
+District of Columbia,2023,Age,13-15 Years,69.4
+District of Columbia,2023,Age,13-17 Years,72.4
+District of Columbia,2018-2022,Insurance Coverage,Other,78.1
+District of Columbia,2018-2022,Insurance Coverage,Any Medicaid,75.7
+District of Columbia,2018-2022,Insurance Coverage,Private Insurance Only,75.8
+District of Columbia,2018-2022,Poverty,Living At or Above Poverty Level,75.5
+District of Columbia,2018-2022,Poverty,Below Poverty Level,74.1
+District of Columbia,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",72.8
+District of Columbia,2018-2022,Race and Ethnicity,Hispanic,80.2
+District of Columbia,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",73.0
+District of Columbia,2018-2022,Race and Ethnicity,"White, Non-Hispanic",79.5
+District of Columbia,2018-2022,Urbanicity,Living In a MSA Principal City,75.4
+District of Columbia,2018-2022,Overall,Overall,75.4
+District of Columbia,2022,Age,13-15 Years,77.2
+District of Columbia,2021,Age,13-15 Years,79.3
+District of Columbia,2019,Age,13-15 Years,74.2
+District of Columbia,2020,Age,13-15 Years,69.3
+District of Columbia,2017,Age,13-17 Years,78.0
+District of Columbia,2018,Age,13-17 Years,71.3
+District of Columbia,2019,Age,13-17 Years,75.5
+District of Columbia,2016,Age,13-17 Years,62.0
+District of Columbia,2020,Age,13-17 Years,72.3
+District of Columbia,2021,Age,13-17 Years,79.4
+District of Columbia,2022,Age,13-17 Years,77.8
+Minnesota,2022,Age,13-15 Years,59.9
+Minnesota,2020,Age,13-15 Years,67.9
+Minnesota,2019,Age,13-15 Years,59.6
+Minnesota,2021,Age,13-15 Years,61.9
+North Dakota,2023,Age,13-17 Years,78.3
+North Dakota,2023,Age,13-15 Years,78.5
+North Dakota,2018-2022,Insurance Coverage,Uninsured,62.8
+North Dakota,2018-2022,Insurance Coverage,Other,67.2
+North Dakota,2018-2022,Insurance Coverage,Any Medicaid,72.4
+North Dakota,2018-2022,Insurance Coverage,Private Insurance Only,72.5
+North Dakota,2018-2022,Poverty,Living At or Above Poverty Level,71.7
+North Dakota,2018-2022,Poverty,Below Poverty Level,67.6
+North Dakota,2018-2022,Race and Ethnicity,Hispanic,70.0
+North Dakota,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",73.6
+North Dakota,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",71.7
+North Dakota,2018-2022,Race and Ethnicity,"White, Non-Hispanic",71.3
+North Dakota,2018-2022,Urbanicity,Living In a MSA Principal City,73.8
+North Dakota,2018-2022,Urbanicity,Living In a Non-MSA,70.0
+North Dakota,2018-2022,Urbanicity,Living In a MSA Non-Principal City,72.1
+North Dakota,2018-2022,Overall,Overall,71.6
+Louisiana,2019,Age,13-15 Years,63.8
+Louisiana,2021,Age,13-15 Years,58.1
+Louisiana,2020,Age,13-15 Years,59.4
+Louisiana,2022,Age,13-15 Years,64.1
+New Mexico,2023,Age,13-15 Years,64.3
+New Mexico,2023,Age,13-17 Years,60.9
+Pennsylvania,2020,Age,13-15 Years,57.4
+Pennsylvania,2019,Age,13-15 Years,56.5
+Pennsylvania,2021,Age,13-15 Years,65.8
+Pennsylvania,2022,Age,13-15 Years,67.1
+Pennsylvania,2018,Age,13-17 Years,54.1
+Pennsylvania,2017,Age,13-17 Years,52.5
+Pennsylvania,2016,Age,13-17 Years,51.0
+Pennsylvania,2022,Age,13-17 Years,66.7
+Pennsylvania,2021,Age,13-17 Years,68.7
+Pennsylvania,2019,Age,13-17 Years,60.1
+Pennsylvania,2020,Age,13-17 Years,67.1
+Mississippi,2019,Age,13-15 Years,24.5
+Mississippi,2021,Age,13-15 Years,35.9
+Mississippi,2020,Age,13-15 Years,31.7
+Mississippi,2022,Age,13-15 Years,33.1
+Alabama,2016,Age,13-17 Years,35.4
+Alabama,2022,Age,13-15 Years,61.8
+Wisconsin,2021,Age,13-15 Years,57.0
+Wisconsin,2020,Age,13-15 Years,56.0
+Wisconsin,2022,Age,13-15 Years,64.3
+Wisconsin,2019,Age,13-15 Years,56.2
+Wisconsin,2023,Age,13-15 Years,63.6
+Wisconsin,2023,Age,13-17 Years,69.9
+Wisconsin,2016,Age,13-17 Years,45.5
+Wisconsin,2018,Age,13-17 Years,55.7
+Wisconsin,2017,Age,13-17 Years,52.3
+Wisconsin,2019,Age,13-17 Years,60.5
+Wisconsin,2020,Age,13-17 Years,61.5
+Wisconsin,2022,Age,13-17 Years,69.0
+Wisconsin,2021,Age,13-17 Years,63.3
+Wisconsin,2018-2022,Overall,Overall,62.1
+Wisconsin,2018-2022,Urbanicity,Living In a MSA Principal City,67.2
+Wisconsin,2018-2022,Urbanicity,Living In a MSA Non-Principal City,59.8
+Wisconsin,2018-2022,Urbanicity,Living In a Non-MSA,56.4
+Wisconsin,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",63.0
+Wisconsin,2018-2022,Race and Ethnicity,"White, Non-Hispanic",60.9
+Wisconsin,2018-2022,Race and Ethnicity,Hispanic,62.2
+Wisconsin,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",69.6
+Wisconsin,2018-2022,Insurance Coverage,Any Medicaid,64.4
+Wisconsin,2018-2022,Insurance Coverage,Private Insurance Only,63.1
+Wisconsin,2018-2022,Insurance Coverage,Other,37.5
+Wisconsin,2018-2022,Poverty,Below Poverty Level,64.2
+Wisconsin,2018-2022,Poverty,Living At or Above Poverty Level,63.1
+Illinois,2017,Age,13-17 Years,50.4
+Illinois,2018,Age,13-17 Years,53.4
+Illinois,2019,Age,13-17 Years,54.9
+Illinois,2016,Age,13-17 Years,47.8
+Illinois,2021,Age,13-17 Years,62.2
+Illinois,2022,Age,13-17 Years,65.7
+Illinois,2020,Age,13-17 Years,63.1
+Illinois,2021,Age,13-15 Years,58.9
+Illinois,2019,Age,13-15 Years,50.1
+Illinois,2022,Age,13-15 Years,66.3
+Illinois,2020,Age,13-15 Years,58.0
+West Virginia,2023,Age,13-17 Years,49.8
+West Virginia,2023,Age,13-15 Years,48.2
+West Virginia,2018-2022,Poverty,Living At or Above Poverty Level,44.6
+West Virginia,2018-2022,Poverty,Below Poverty Level,57.2
+West Virginia,2018-2022,Insurance Coverage,Uninsured,34.2
+West Virginia,2018-2022,Insurance Coverage,Other,50.0
+West Virginia,2018-2022,Insurance Coverage,Private Insurance Only,45.6
+West Virginia,2018-2022,Insurance Coverage,Any Medicaid,51.3
+West Virginia,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",52.0
+West Virginia,2018-2022,Race and Ethnicity,Hispanic,42.1
+West Virginia,2018-2022,Race and Ethnicity,"White, Non-Hispanic",48.2
+West Virginia,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",48.8
+West Virginia,2018-2022,Urbanicity,Living In a Non-MSA,45.5
+West Virginia,2018-2022,Urbanicity,Living In a MSA Non-Principal City,47.9
+West Virginia,2018-2022,Urbanicity,Living In a MSA Principal City,52.0
+West Virginia,2018-2022,Overall,Overall,48.3
+Ohio,2022,Age,13-15 Years,61.5
+Ohio,2019,Age,13-15 Years,47.4
+Ohio,2021,Age,13-15 Years,55.2
+Ohio,2020,Age,13-15 Years,45.3
+Ohio,2019,Age,13-17 Years,49.6
+Ohio,2020,Age,13-17 Years,53.2
+Ohio,2021,Age,13-17 Years,62.2
+Ohio,2022,Age,13-17 Years,62.7
+Ohio,2016,Age,13-17 Years,41.8
+Ohio,2018,Age,13-17 Years,58.2
+Ohio,2017,Age,13-17 Years,47.0
+Colorado,2023,Age,13-17 Years,68.5
+Colorado,2023,Age,13-15 Years,65.2
+Colorado,2018-2022,Overall,Overall,65.5
+Colorado,2018-2022,Urbanicity,Living In a MSA Principal City,68.1
+Colorado,2018-2022,Urbanicity,Living In a MSA Non-Principal City,64.0
+Colorado,2018-2022,Urbanicity,Living In a Non-MSA,55.5
+Colorado,2018-2022,Race and Ethnicity,"White, Non-Hispanic",62.9
+Colorado,2018-2022,Race and Ethnicity,Hispanic,70.2
+Colorado,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",65.6
+Colorado,2018-2022,Poverty,Below Poverty Level,64.2
+Colorado,2018-2022,Poverty,Living At or Above Poverty Level,65.7
+Colorado,2018-2022,Insurance Coverage,Private Insurance Only,67.9
+Colorado,2018-2022,Insurance Coverage,Any Medicaid,64.2
+Colorado,2018-2022,Insurance Coverage,Other,56.8
+Colorado,2018-2022,Insurance Coverage,Uninsured,56.3
+Arizona,2023,Age,13-15 Years,57.6
+Arizona,2023,Age,13-17 Years,63.1
+Arizona,2018-2022,Insurance Coverage,Uninsured,48.6
+Arizona,2018-2022,Insurance Coverage,Other,51.9
+Arizona,2018-2022,Insurance Coverage,Any Medicaid,64.4
+Arizona,2018-2022,Insurance Coverage,Private Insurance Only,52.3
+Arizona,2018-2022,Poverty,Living At or Above Poverty Level,53.7
+Arizona,2018-2022,Poverty,Below Poverty Level,70.1
+Arizona,2018-2022,Race and Ethnicity,"White, Non-Hispanic",48.7
+Arizona,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",61.0
+Arizona,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",43.6
+Arizona,2018-2022,Race and Ethnicity,Hispanic,64.1
+Arizona,2018-2022,Urbanicity,Living In a Non-MSA,62.5
+Arizona,2018-2022,Urbanicity,Living In a MSA Non-Principal City,54.2
+Arizona,2018-2022,Urbanicity,Living In a MSA Principal City,57.8
+Arizona,2018-2022,Overall,Overall,56.6
+Alaska,2023,Age,13-17 Years,54.4
+Alaska,2023,Age,13-15 Years,47.5
+Alaska,2018-2022,Poverty,Living At or Above Poverty Level,53.2
+Alaska,2018-2022,Insurance Coverage,Private Insurance Only,51.8
+Alaska,2018-2022,Insurance Coverage,Any Medicaid,54.1
+Alaska,2018-2022,Insurance Coverage,Other,55.8
+Alaska,2018-2022,Insurance Coverage,Uninsured,42.9
+Alaska,2018-2022,Overall,Overall,53.1
+Alaska,2018-2022,Urbanicity,Living In a MSA Principal City,56.8
+Alaska,2018-2022,Urbanicity,Living In a MSA Non-Principal City,40.4
+Alaska,2018-2022,Urbanicity,Living In a Non-MSA,53.0
+Alaska,2018-2022,Race and Ethnicity,Hispanic,56.8
+Alaska,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",75.8
+Alaska,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",58.9
+Alaska,2018-2022,Race and Ethnicity,"White, Non-Hispanic",48.0
+Alaska,2018-2022,Poverty,Below Poverty Level,53.3
+Delaware,2019,Age,13-15 Years,56.3
+Delaware,2021,Age,13-15 Years,63.6
+Delaware,2020,Age,13-15 Years,57.5
+Delaware,2022,Age,13-15 Years,69.2
+Wyoming,2021,Age,13-15 Years,44.0
+Wyoming,2019,Age,13-15 Years,39.3
+Wyoming,2020,Age,13-15 Years,46.5
+Wyoming,2022,Age,13-15 Years,43.1
+South Carolina,2023,Age,13-15 Years,56.3
+South Carolina,2023,Age,13-17 Years,61.0
+Indiana,2020,Age,13-15 Years,45.8
+Indiana,2022,Age,13-15 Years,54.4
+Indiana,2021,Age,13-15 Years,51.5
+Indiana,2019,Age,13-15 Years,37.2
+Indiana,2020,Age,13-17 Years,53.4
+Indiana,2016,Age,13-17 Years,33.9
+Indiana,2017,Age,13-17 Years,40.8
+Indiana,2018,Age,13-17 Years,48.9
+Indiana,2019,Age,13-17 Years,41.2
+Indiana,2022,Age,13-17 Years,59.6
+Indiana,2021,Age,13-17 Years,55.2
+Rhode Island,2020,Age,13-15 Years,77.0
+Rhode Island,2021,Age,13-15 Years,85.4
+Rhode Island,2019,Age,13-15 Years,80.8
+Rhode Island,2022,Age,13-15 Years,81.3
+Maryland,2020,Age,13-17 Years,66.8
+Maryland,2022,Age,13-17 Years,72.0
+Maryland,2021,Age,13-17 Years,71.9
+Maryland,2022,Age,13-15 Years,68.8
+Maryland,2019,Age,13-15 Years,64.5
+Maryland,2021,Age,13-15 Years,67.9
+Maryland,2020,Age,13-15 Years,65.3
+Maryland,2018,Age,13-17 Years,58.1
+Maryland,2017,Age,13-17 Years,52.9
+Maryland,2019,Age,13-17 Years,68.9
+Maryland,2016,Age,13-17 Years,48.1
+North Carolina,2023,Age,13-15 Years,61.2
+North Carolina,2023,Age,13-17 Years,63.5
+North Carolina,2018-2022,Overall,Overall,57.0
+North Carolina,2018-2022,Urbanicity,Living In a MSA Non-Principal City,55.7
+North Carolina,2018-2022,Urbanicity,Living In a Non-MSA,61.8
+North Carolina,2018-2022,Urbanicity,Living In a MSA Principal City,56.7
+North Carolina,2018-2022,Race and Ethnicity,"White, Non-Hispanic",57.5
+North Carolina,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",52.4
+North Carolina,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",64.4
+North Carolina,2018-2022,Race and Ethnicity,Hispanic,56.9
+North Carolina,2018-2022,Poverty,Below Poverty Level,55.5
+North Carolina,2018-2022,Poverty,Living At or Above Poverty Level,57.3
+North Carolina,2018-2022,Insurance Coverage,Private Insurance Only,57.5
+North Carolina,2018-2022,Insurance Coverage,Any Medicaid,59.9
+North Carolina,2018-2022,Insurance Coverage,Other,53.8
+North Carolina,2018-2022,Insurance Coverage,Uninsured,35.5
+South Carolina,2018-2022,Overall,Overall,51.7
+South Carolina,2018-2022,Urbanicity,Living In a MSA Non-Principal City,50.2
+South Carolina,2018-2022,Urbanicity,Living In a Non-MSA,44.8
+South Carolina,2018-2022,Urbanicity,Living In a MSA Principal City,55.5
+South Carolina,2018-2022,Race and Ethnicity,"White, Non-Hispanic",48.1
+South Carolina,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",55.3
+South Carolina,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",55.1
+South Carolina,2018-2022,Race and Ethnicity,Hispanic,58.1
+South Carolina,2018-2022,Poverty,Below Poverty Level,57.1
+South Carolina,2018-2022,Poverty,Living At or Above Poverty Level,49.8
+South Carolina,2018-2022,Insurance Coverage,Any Medicaid,54.8
+South Carolina,2018-2022,Insurance Coverage,Private Insurance Only,51.3
+South Carolina,2018-2022,Insurance Coverage,Other,41.2
+South Carolina,2018-2022,Insurance Coverage,Uninsured,33.6
+South Carolina,2021,Age,13-17 Years,62.1
+South Carolina,2022,Age,13-17 Years,54.4
+South Carolina,2020,Age,13-17 Years,47.0
+South Carolina,2018,Age,13-17 Years,41.2
+South Carolina,2017,Age,13-17 Years,42.7
+South Carolina,2016,Age,13-17 Years,29.1
+South Carolina,2019,Age,13-17 Years,53.0
+South Carolina,2022,Age,13-15 Years,45.1
+South Carolina,2019,Age,13-15 Years,49.1
+South Carolina,2021,Age,13-15 Years,61.2
+South Carolina,2020,Age,13-15 Years,44.0
+Massachusetts,2018-2022,Overall,Overall,73.7
+Massachusetts,2018-2022,Urbanicity,Living In a MSA Principal City,79.1
+Massachusetts,2018-2022,Urbanicity,Living In a MSA Non-Principal City,72.7
+Massachusetts,2018-2022,Race and Ethnicity,"White, Non-Hispanic",72.2
+Massachusetts,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",83.5
+Massachusetts,2018-2022,Race and Ethnicity,Hispanic,73.8
+Massachusetts,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",74.2
+Massachusetts,2018-2022,Poverty,Below Poverty Level,72.4
+Massachusetts,2018-2022,Poverty,Living At or Above Poverty Level,74.1
+Massachusetts,2018-2022,Insurance Coverage,Private Insurance Only,73.8
+Massachusetts,2018-2022,Insurance Coverage,Any Medicaid,72.8
+Massachusetts,2018-2022,Insurance Coverage,Other,75.1
+Massachusetts,2023,Age,13-15 Years,80.2
+Massachusetts,2023,Age,13-17 Years,82.3
+Arizona,2022,Age,13-15 Years,57.7
+Arizona,2016,Age,13-17 Years,44.1
+Arizona,2019,Age,13-15 Years,50.2
+Arizona,2021,Age,13-15 Years,53.8
+Arizona,2020,Age,13-15 Years,49.4
+Arizona,2017,Age,13-17 Years,53.0
+Arizona,2018,Age,13-17 Years,50.7
+Arizona,2019,Age,13-17 Years,56.9
+Arizona,2020,Age,13-17 Years,51.4
+Arizona,2021,Age,13-17 Years,61.7
+Arizona,2022,Age,13-17 Years,62.1
+Oregon,2020,Age,13-15 Years,53.8
+Oregon,2021,Age,13-15 Years,59.6
+Oregon,2019,Age,13-15 Years,59.7
+Oregon,2022,Age,13-15 Years,60.0
+Montana,2018-2022,Insurance Coverage,Other,45.7
+Montana,2018-2022,Insurance Coverage,Any Medicaid,51.6
+Montana,2018-2022,Insurance Coverage,Private Insurance Only,55.6
+Montana,2018-2022,Poverty,Living At or Above Poverty Level,53.3
+Montana,2018-2022,Poverty,Below Poverty Level,52.4
+Montana,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",53.9
+Montana,2018-2022,Race and Ethnicity,Hispanic,60.9
+Montana,2018-2022,Race and Ethnicity,"White, Non-Hispanic",52.0
+Montana,2018-2022,Urbanicity,Living In a MSA Principal City,60.2
+Montana,2018-2022,Urbanicity,Living In a MSA Non-Principal City,52.8
+Montana,2018-2022,Urbanicity,Living In a Non-MSA,47.2
+Montana,2018-2022,Overall,Overall,52.6
+Montana,2023,Age,13-17 Years,59.0
+Montana,2023,Age,13-15 Years,54.5
+Illinois,2018-2022,Overall,Overall,59.9
+Illinois,2018-2022,Urbanicity,Living In a MSA Principal City,65.5
+Illinois,2018-2022,Urbanicity,Living In a MSA Non-Principal City,59.4
+Illinois,2018-2022,Urbanicity,Living In a Non-MSA,42.7
+Illinois,2018-2022,Race and Ethnicity,"White, Non-Hispanic",57.0
+Illinois,2018-2022,Race and Ethnicity,Hispanic,64.1
+Illinois,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",59.7
+Illinois,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",63.7
+Illinois,2018-2022,Poverty,Below Poverty Level,60.9
+Illinois,2018-2022,Poverty,Living At or Above Poverty Level,59.8
+Illinois,2018-2022,Insurance Coverage,Private Insurance Only,61.3
+Illinois,2018-2022,Insurance Coverage,Any Medicaid,59.8
+Illinois,2018-2022,Insurance Coverage,Other,41.2
+Illinois,2018-2022,Insurance Coverage,Uninsured,43.1
+Illinois,2023,Age,13-15 Years,63.0
+Illinois,2023,Age,13-17 Years,69.1
+Indiana,2023,Age,13-17 Years,61.8
+Indiana,2023,Age,13-15 Years,57.1
+Indiana,2018-2022,Insurance Coverage,Other,49.9
+Indiana,2018-2022,Insurance Coverage,Uninsured,26.9
+Indiana,2018-2022,Insurance Coverage,Any Medicaid,53.4
+Indiana,2018-2022,Insurance Coverage,Private Insurance Only,53.0
+Indiana,2018-2022,Poverty,Below Poverty Level,51.3
+Indiana,2018-2022,Poverty,Living At or Above Poverty Level,51.8
+Indiana,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",60.7
+Indiana,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",52.6
+Indiana,2018-2022,Race and Ethnicity,Hispanic,49.6
+Indiana,2018-2022,Race and Ethnicity,"White, Non-Hispanic",50.9
+Indiana,2018-2022,Urbanicity,Living In a Non-MSA,45.6
+Indiana,2018-2022,Urbanicity,Living In a MSA Non-Principal City,52.4
+Indiana,2018-2022,Urbanicity,Living In a MSA Principal City,53.5
+Indiana,2018-2022,Overall,Overall,51.8
+Michigan,2019,Age,13-15 Years,63.6
+Michigan,2021,Age,13-15 Years,60.1
+Michigan,2020,Age,13-15 Years,53.7
+Michigan,2022,Age,13-15 Years,65.4
+Nebraska,2019,Age,13-15 Years,61.5
+Nebraska,2021,Age,13-15 Years,55.6
+Nebraska,2022,Age,13-15 Years,59.2
+Nebraska,2016,Age,13-17 Years,45.9
+Nebraska,2021,Age,13-17 Years,61.9
+Nebraska,2022,Age,13-17 Years,65.4
+Nebraska,2019,Age,13-17 Years,60.5
+Nebraska,2020,Age,13-17 Years,64.8
+Nebraska,2018,Age,13-17 Years,62.7
+Nebraska,2017,Age,13-17 Years,58.3
+Nebraska,2020,Age,13-15 Years,62.9
+Ohio,2023,Age,13-15 Years,60.6
+Ohio,2023,Age,13-17 Years,63.4
+Ohio,2018-2022,Overall,Overall,57.2
+Ohio,2018-2022,Urbanicity,Living In a MSA Non-Principal City,56.9
+Ohio,2018-2022,Urbanicity,Living In a Non-MSA,43.9
+Ohio,2018-2022,Urbanicity,Living In a MSA Principal City,63.5
+Ohio,2018-2022,Race and Ethnicity,"White, Non-Hispanic",53.5
+Ohio,2018-2022,Race and Ethnicity,"Black, Non-Hispanic",71.2
+Ohio,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",61.2
+Ohio,2018-2022,Race and Ethnicity,Hispanic,60.6
+Ohio,2018-2022,Poverty,Below Poverty Level,60.4
+Ohio,2018-2022,Poverty,Living At or Above Poverty Level,55.9
+Ohio,2018-2022,Insurance Coverage,Private Insurance Only,57.3
+Ohio,2018-2022,Insurance Coverage,Any Medicaid,58.5
+Ohio,2018-2022,Insurance Coverage,Other,52.8
+Vermont,2019,Age,13-15 Years,57.3
+Vermont,2021,Age,13-15 Years,62.4
+Vermont,2020,Age,13-15 Years,68.5
+Vermont,2022,Age,13-15 Years,61.9
+Vermont,2019,Age,13-17 Years,63.6
+Vermont,2022,Age,13-17 Years,71.9
+Vermont,2021,Age,13-17 Years,66.7
+Vermont,2017,Age,13-17 Years,64.5
+Vermont,2018,Age,13-17 Years,62.0
+Vermont,2016,Age,13-17 Years,55.7
+Vermont,2020,Age,13-17 Years,70.5
+Vermont,2023,Age,13-15 Years,61.5
+Vermont,2023,Age,13-17 Years,68.3
+Vermont,2018-2022,Overall,Overall,67.0
+Vermont,2018-2022,Urbanicity,Living In a MSA Principal City,65.5
+Vermont,2018-2022,Urbanicity,Living In a MSA Non-Principal City,65.8
+Vermont,2018-2022,Urbanicity,Living In a Non-MSA,67.9
+Vermont,2018-2022,Race and Ethnicity,"White, Non-Hispanic",66.7
+Vermont,2018-2022,Race and Ethnicity,Hispanic,70.7
+Vermont,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",69.9
+Vermont,2018-2022,Poverty,Below Poverty Level,58.8
+Vermont,2018-2022,Insurance Coverage,Any Medicaid,62.6
+Vermont,2018-2022,Insurance Coverage,Private Insurance Only,70.7
+Vermont,2018-2022,Insurance Coverage,Other,64.1
+Vermont,2018-2022,Poverty,Living At or Above Poverty Level,68.2
+Utah,2023,Age,13-17 Years,61.2
+Utah,2023,Age,13-15 Years,58.4
+Utah,2016,Age,13-17 Years,30.5
+Utah,2018,Age,13-17 Years,43.2
+Utah,2017,Age,13-17 Years,37.4
+Utah,2021,Age,13-17 Years,61.4
+Utah,2022,Age,13-17 Years,55.2
+Utah,2020,Age,13-17 Years,45.0
+Utah,2019,Age,13-17 Years,44.6
+Utah,2018-2022,Poverty,Living At or Above Poverty Level,50.7
+Utah,2018-2022,Insurance Coverage,Uninsured,34.7
+Utah,2018-2022,Insurance Coverage,Other,54.5
+Utah,2018-2022,Insurance Coverage,Private Insurance Only,49.4
+Utah,2018-2022,Insurance Coverage,Any Medicaid,55.4
+Utah,2018-2022,Poverty,Below Poverty Level,53.6
+Utah,2018-2022,Race and Ethnicity,"Other or Multiple Races, Non-Hispanic",61.2
+Utah,2018-2022,Race and Ethnicity,Hispanic,53.1
+Utah,2018-2022,Race and Ethnicity,"White, Non-Hispanic",48.0
+Utah,2018-2022,Urbanicity,Living In a Non-MSA,32.8
+Utah,2018-2022,Urbanicity,Living In a MSA Non-Principal City,49.4
+Utah,2018-2022,Urbanicity,Living In a MSA Principal City,55.3
+Utah,2018-2022,Overall,Overall,50.0
+Connecticut,2022,Age,13-15 Years,65.9
+Connecticut,2020,Age,13-15 Years,61.5
+Connecticut,2021,Age,13-15 Years,57.6
+Connecticut,2019,Age,13-15 Years,45.8
+Connecticut,2019,Age,13-17 Years,53.8
+Connecticut,2018,Age,13-17 Years,53.1
+Connecticut,2017,Age,13-17 Years,58.0
+Connecticut,2020,Age,13-17 Years,66.9
+Connecticut,2021,Age,13-17 Years,66.4
+Connecticut,2022,Age,13-17 Years,71.9
+Connecticut,2016,Age,13-17 Years,49.0
+North Dakota,2022,Age,13-15 Years,75.4
+North Dakota,2020,Age,13-15 Years,62.0
+North Dakota,2021,Age,13-15 Years,59.9
+North Dakota,2019,Age,13-15 Years,70.1
+North Dakota,2022,Age,13-17 Years,74.4
+North Dakota,2021,Age,13-17 Years,72.2
+North Dakota,2020,Age,13-17 Years,70.3
+North Dakota,2019,Age,13-17 Years,76.9
+North Dakota,2016,Age,13-17 Years,52.7
+North Dakota,2017,Age,13-17 Years,57.8
+North Dakota,2018,Age,13-17 Years,63.6
+Kansas,2020,Age,13-15 Years,52.3
+Kansas,2022,Age,13-15 Years,58.9
+Kansas,2021,Age,13-15 Years,62.2
+Kansas,2019,Age,13-15 Years,46.9
