@@ -28,4 +28,6 @@ Centers for Disease Control and Prevention, National Center for Chronic Disease 
 Created November 2, 2016. Data last updated December 5, 2019. Owned by The 500 Cities. Accessed December 16, 2024.
 Available from https://data.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/k86t-wghb/about_data.
 
+Centers for Disease Control and Prevention. Vaccination Coverage among Adolescents (13-17 Years). Created July 28, 2021. Data last updated September 12, 2024. Owned by HHS Office of the Chief Data Officer. Accessed December 16, 2024. Available from https://healthdata.gov/dataset/Vaccination-Coverage-among-Adolescents-13-17-Years/47pk-jpce/about_data.
+
 
