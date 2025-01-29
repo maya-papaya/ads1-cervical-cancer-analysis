@@ -6,7 +6,10 @@ Cervical cancer is the fourth most prevalent cancer among women globally. Howeve
 
 ## Overview
 
-The goal of this research project was to compare the effects of preventative measures like HPV vaccines versus screening measures like Pap smear tests on cervical cancer incidence/mortality rates within the United States. I split my research project into five different sections: collecting datasets (1), cleaning/preprocessing my datasets (2), adding the cleaned datasets into a relational database (3), performing data analysis (4), and compiling a report on my findings (5). I have included each step of my project in this GitHub repository, as well as the datasets I used for my analysis.
+The goal of this research project was to compare the effects of preventative measures like HPV vaccines versus screening measures like Pap smear tests on cervical cancer incidence/mortality rates within the United States. I split my research project into five different sections: collecting datasets (1), cleaning/preprocessing my datasets (2), adding the cleaned datasets into a relational database (3), performing data analysis (4), and compiling a report on my findings (5). I have included each step of my project in this GitHub repository, as well as the datasets I used for my analysis. You can also watch this video presentation below:
+
+https://github.com/user-attachments/assets/bc173253-c147-4fa4-ba56-e9c8455541a7
+
 
 ## Citations
 
